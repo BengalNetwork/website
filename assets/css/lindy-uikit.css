@@ -769,7 +769,7 @@ p {
 .hero-section-wrapper-1 .hero-style-1 {
   position: relative;
   z-index: 1;
-  background: #cdc7af;
+  background: #ffffff;
 }
 
 .hero-section-wrapper-1 .hero-style-1 .hero-content-wrapper {
@@ -896,7 +896,7 @@ p {
     FEATURE-3 CSS
 ================================ */
 .feature-style-3 {
-  background: #ffffff;
+  background: #f7d9b3;
   padding: 100px 0;
 }
 
@@ -2368,6 +2368,10 @@ input:focus, textarea:focus, button:focus {
 
 .h1white {
   color: #ffffff;
+}
+
+.pblack {
+  color: #000000;
 }
 
 
